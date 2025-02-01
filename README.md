@@ -1,0 +1,10 @@
+<h1 align="center">Beecrowd Problems</h1>
+<h3 align="center">I Started my problem solving journey through Beecrowd, so keeping the roots</h3>
+
+## 🤔 What's in this repo :
+<img align="right" height="120" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif"  />
+
+ 
+- 📌 My codebases for beginner problems in Beecrowd
+
+- 📌 Begining of a new era, LoL! 
