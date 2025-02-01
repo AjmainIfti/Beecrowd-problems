@@ -7,4 +7,7 @@
  
 - 📌 My codebases for beginner problems in Beecrowd
 
-- 📌 Begining of a new era, LoL! 
+- 📌 Begining of a new era, LoL!
+
+# 💻 Language of Code :
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
